@@ -1,3 +1,10 @@
 # :man_technologist: Matheus Filipe
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-filipe-351106186/)](https://www.linkedin.com/in/matheus-filipe-351106186/)
+
+Hi there! 👋
+
+Lets code code code?
+
+/* Cat Gif */
+
